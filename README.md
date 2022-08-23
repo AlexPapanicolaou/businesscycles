@@ -3,7 +3,7 @@
 
 Historical stock market bubble dates were obtained via following Phillips and Shi's (2018) bootstrapping procedure on Shiller's S&P 500 data in R: https://cowles.yale.edu/sites/default/files/files/pub/d21/d2152.pdf
  
-Recession dates were obtained via USREC in FRED: https://fred.stlouisfed.org/series/USREC
+Recession dates were obtained via USREC (1960 - 2021) in FRED: https://fred.stlouisfed.org/series/USREC
  
 The code on recession is completed. I think it has worked okay overall but I think I have incorrectly applied the models to the full dataset because the results are incredibly high (and outscored the test/train counterpart). Furthermore, when replicating the models onto bubble data, I have ran into huge issues despite bubbles only being marginally more imbalanced. The models are getting lots of false positives or no accurate forecasts at all and I have currently been unable to figure out why. It is most likely (and hopefully) a simple coding error.
 
