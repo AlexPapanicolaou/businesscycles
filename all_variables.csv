@@ -1,0 +1,153 @@
+FRED Abbreviation,Main Variable,Unit,Frequency,Source,Retrieved From,,,,,,,,,,,,,
+A576RC1,"Compensation of Employees, Received: Wage and Salary Disbursements",$USD Billions,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+AAA,Moody's Seasoned Aaa Corporate Bond Yield,Percent,Monthly,Moody's,FRED,,,,,,,,,,,,,
+AMDMNOx,New Orders for Durable Goods,$USD Billions,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,,,,,,
+AMDMUOx,Unfilled Orders for Durable Goods,$USD Millions,Monthly,U.S. Census Bureau,FRED,,,,,,,,,,,,,
+AWHMAN,"Average Weekly Hours of Production and Nonsupervisory Employees, Manufacturing",Hours,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+BAA,Moody's Seasoned Baa Corporate Bond Yield,Percent,Monthly,Moody's,FRED,,,,,,,,,,,,,
+BAAFFM,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,,,,,,
+BBKMLEIX,Brave-Butters-Kelley Leading Index,Standard Deviations,Monthly,Federal Reserve Bank of Chicago,FRED,,,,,,,,,,,,,
+BCNSDODNS,"Nonfinancial Corporate Business: Debt securitites and loans; liability, level",$USD Billions,Quarterly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+BOGMBASE,Monetary Base,$USD Millions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+BOGZ1FL594090005Q,"Pension Funds; Total Financial Assets, Level",$USD Millions,Quartely,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+BUSINVx,Total Business: Inventories,$USD Millions,Monthly,U.S. Census Bureau,FRED,,,,,,,,,,,,,
+BUSLOANS,Commercial and Industrial Loans,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+CE16OV,Civilian Employment,Thousands of Persons,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+CES0600000008,Average Hourly Earnings: Goods-Producing,$USD per hour,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+CES2000000008,Average Hourly Earnings: Construction,$USD per hour,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+CES3000000008,Average Hourly Earnings: Manufacturing ,$USD per hour,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+CIVPART,Labor Force Participation Rate,Percent,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+CLAIMSx,Initial Claims,Number,Monthly,U.S. Employment and Training Administration,FRED,,,,,,,,,,,,,
+CLF16OV,Civilian Labor Force,Thousands of Persons,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+CMDEBT,"Households and Nonprofit Organizations: Debt Securities and Loans; Liability, Level",$USD Billions,Quartely,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+CMRMTSPLx,Real Manufacturing and Trade Industries Sales,Millions of Chained 2012 Dollars,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,,,,,,
+COMPAPFFx,3-Month Commercial Paper Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,,,,,,
+CONSPIx,Nonrevolving Consumer Credit to Personal Income,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+CP,Corporate Profits After Tax (without IVA and CCAdj),$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average SA,Index 1982-1984=100,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+CPILFESL,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average SA,Index 1982-1984=100,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+CUMFNS,Capacity Utilisation: Manufacturing,Percent of capacity,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+DDURRG3M086SBEA,Personal Consumption Expenditures: Durable Goods,Index 2012=100,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+DNDGRG3M086SBEA,Personal Consumption Expenditures: Nondurable Goods,Index 2012=100,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+DPRIME,Bank Prime Loan Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+DSERRG3M086SBEA,Personal Consumption Expenditures: Services,Index 2012=100,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+DSPIC96,Real Disposable Personal Income,$USD Billions of Chained 2012 Dollars,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+DTB3,"3-Month Treasury Bill Secondary Market Rate, Discount Basis (IS THIS NECESSARY NOW I HAVE ABOVE?)",Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+DTCOLNVHFNM,Total Consumer Motor Vehicle Loans Outstanding,$USD Millions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+DTCTHFNM,Total Consumer Loans and Leases Outstanding,$USD Millions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+EXCAUSx,Canada / U.S. Foreign Exchange Rate,Canadian Dollars to One U.S. Dollar,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+EXJPUSx,Japan / U.S. Foreign Exchange Rate,Japanese Yen to One U.S. Dollar,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+EXPGS,Exports,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+EXSZUSx,Switzerland / U.S. Foreign Exchange Rate,Swiss Francs to One U.S. Dollar,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+EXUSUKx,U.S. / U.K. Foreign Exchange Rate,U.S. Dollars to One U.K. Pound Sterling,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+FEDFUNDS,Federal Funds (Effective) Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+GDP,US Nominal GDP,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+GDPC1,US Real GDP,Billions of Chained 2012 Dollars,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+GPDI,Gross Private Domestic Investment,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+GS1,1-Year T-Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+GS10,10-Year T-Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+GS3,3-Year T-Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+GS5,5-Year T-Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+HCCSDODNS,"Household and Nonprofit Organisations; Consumer Credit, Liability, Level",$USD Billions,Quartely,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+IMPGS,Imports,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+INDPRO,Industrial Production,Index 2017=100,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+INVEST,Securities in Bank Credit at All Commercial Banks,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+IRLTLT01USM156N,10-Year Long-Term Government Bond Yields (Long-term interest rate proxy),Percent,Monthly,Organization for Economic Co-operation and Development,FRED,,,,,,,,,,,,,
+ISRATIOx,Total Business: Inventories to Sales Ratio,Ratio,Monthly,U.S. Census Bureau,FRED,,,,,,,,,,,,,
+M1SL,M1 Money Stock,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+M2SL,M2 Money Stock,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+NETEXP,Net Exports (Balance of Trade),$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+NONREVSL,Total Nonrevolving Credit,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,,,,,,
+PAYEMS,Total NFP,Thousands of Persons,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+PCE,Personal Consumption Expenditures,$USD Billions,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+PERMIT,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Thousands of Units,Monthly,U.S. Census Bureau -  U.S. Department of Housing and Urban Development,FRED,,,,,,,,,,,,,
+POPTHM,Population,Thousands of Persons,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,,,,,,
+PPIACO,Producer Price Index by Commodity: All Commodities,Index 1982=100,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,,,,,,
+PSAVERT,Personal Saving Rate,Percent,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,FRED Abbreviation,Main Variable,Unit,Frequency,Source,Retrieved From
+REALLN,Real Estate Loans at All Commercial Banks,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,A576RC1,"Compensation of Employees, Received: Wage and Salary Disbursements",$USD Billions,Monthly,U.S. Bureau of Economic Analysis,FRED
+RPI,Real Personal Income (PIX),$USD Billions of Chained 2012 Dollars,Monthly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,AAA,Moody's Seasoned Aaa Corporate Bond Yield,Percent,Monthly,Moody's,FRED
+spx,S&P 500 Returns,,Monthly,Shiller's website,,,,,,,,,AMDMNOx,New Orders for Durable Goods,$USD Billions,Monthly,Federal Reserve Bank of St. Louis,FRED
+spx_div_yield,S&P 500 Dividend Yield,,Monthly,Shiller's website,,,,,,,,,AMDMUOx,Unfilled Orders for Durable Goods,$USD Millions,Monthly,U.S. Census Bureau,FRED
+spx_e,,,Monthly,Shiller's website,,,,,,,,,AWHMAN,"Average Weekly Hours of Production and Nonsupervisory Employees, Manufacturing",Hours,Monthly,U.S. Bureau of Labor Statistics,FRED
+spx_pd,,,Monthly,Shiller's website,,,,,,,,,BAA,Moody's Seasoned Baa Corporate Bond Yield,Percent,Monthly,Moody's,FRED
+spx_pe,,,Monthly,Shiller's website,,,,,,,,,BAAFFM,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+spxbubble,"Derived from bootstrapped GSADF tests (Phillips & Shi, 2018).",,Monthly,,,,,,,,,,BBKMLEIX,Brave-Butters-Kelley Leading Index,Standard Deviations,Monthly,Federal Reserve Bank of Chicago,FRED
+T10YFFM,10-Year Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,BCNSDODNS,"Nonfinancial Corporate Business: Debt securitites and loans; liability, level",$USD Billions,Quarterly,Board of Governors of the Federal Reserve System (US),FRED
+T1YFFM,1-Year Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,BOGMBASE,Monetary Base,$USD Millions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+T5YFFM,5-Year Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,BOGZ1FL594090005Q,"Pension Funds; Total Financial Assets, Level",$USD Millions,Quartely,Board of Governors of the Federal Reserve System (US),FRED
+TB3MS,3-Month T-Bill,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,BUSINVx,Total Business: Inventories,$USD Millions,Monthly,U.S. Census Bureau,FRED
+TB3SMFFM,3-Month Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,BUSLOANS,Commercial and Industrial Loans,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+TB6MS,6-Month T-Bill,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,CE16OV,Civilian Employment,Thousands of Persons,Monthly,U.S. Bureau of Labor Statistics,FRED
+TB6SMFFM,6-Month Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,CES0600000008,Average Hourly Earnings: Goods-Producing,$USD per hour,Monthly,U.S. Bureau of Labor Statistics,FRED
+TOTRESNS,Total Reserves of Depository Institutions,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED,,,,,,,,CES2000000008,Average Hourly Earnings: Construction,$USD per hour,Monthly,U.S. Bureau of Labor Statistics,FRED
+UNRATE,Unemployment Rate,Percent,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,CES3000000008,Average Hourly Earnings: Manufacturing ,$USD per hour,Monthly,U.S. Bureau of Labor Statistics,FRED
+USREC,NBER based Recession Indicators for the United States from the Period following the Peak through the Trough ,Dummy Variable,Monthly,NBER,FRED,,,,,,,,CIVPART,Labor Force Participation Rate,Percent,Monthly,U.S. Bureau of Labor Statistics,FRED
+W068RCQ027SBEA,Government Total Expenditures,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,CLAIMSx,Initial Claims,Number,Monthly,U.S. Employment and Training Administration,FRED
+WPSFD49207,Producer Price Index: Finished Goods,Index 1982=100,Monthly,U.S. Bureau of Labor Statistics,FRED,,,,,,,,CLF16OV,Civilian Labor Force,Thousands of Persons,Monthly,U.S. Bureau of Labor Statistics,FRED
+WTISPLC,Spot Crude Oil Price: West Texas Intermediate (WTI),$USD Per barrel,Monthly,Federal Reserve Bank of St. Louis,FRED,,,,,,,,CMDEBT,"Households and Nonprofit Organizations: Debt Securities and Loans; Liability, Level",$USD Billions,Quartely,Board of Governors of the Federal Reserve System (US),FRED
+Y694RC1Q027SBEA,R&D Spending (GDP),$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED,,,,,,,,CMRMTSPLx,Real Manufacturing and Trade Industries Sales,Millions of Chained 2012 Dollars,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,COMPAPFFx,3-Month Commercial Paper Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,CONSPIx,Nonrevolving Consumer Credit to Personal Income,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,CP,Corporate Profits After Tax (without IVA and CCAdj),$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average SA,Index 1982-1984=100,Monthly,U.S. Bureau of Labor Statistics,FRED
+,,,,,,,,,,,,,CPILFESL,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average SA,Index 1982-1984=100,Monthly,U.S. Bureau of Labor Statistics,FRED
+,,,,,,,,,,,,,CUMFNS,Capacity Utilisation: Manufacturing,Percent of capacity,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,DDURRG3M086SBEA,Personal Consumption Expenditures: Durable Goods,Index 2012=100,Monthly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,DNDGRG3M086SBEA,Personal Consumption Expenditures: Nondurable Goods,Index 2012=100,Monthly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,DPRIME,Bank Prime Loan Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,DSERRG3M086SBEA,Personal Consumption Expenditures: Services,Index 2012=100,Monthly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,DSPIC96,Real Disposable Personal Income,$USD Billions of Chained 2012 Dollars,Monthly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,DTB3,"3-Month Treasury Bill Secondary Market Rate, Discount Basis (IS THIS NECESSARY NOW I HAVE ABOVE?)",Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,DTCOLNVHFNM,Total Consumer Motor Vehicle Loans Outstanding,$USD Millions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,DTCTHFNM,Total Consumer Loans and Leases Outstanding,$USD Millions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,EXCAUSx,Canada / U.S. Foreign Exchange Rate,Canadian Dollars to One U.S. Dollar,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,EXJPUSx,Japan / U.S. Foreign Exchange Rate,Japanese Yen to One U.S. Dollar,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,EXPGS,Exports,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,EXSZUSx,Switzerland / U.S. Foreign Exchange Rate,Swiss Francs to One U.S. Dollar,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,EXUSUKx,U.S. / U.K. Foreign Exchange Rate,U.S. Dollars to One U.K. Pound Sterling,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,FEDFUNDS,Federal Funds (Effective) Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,GDP,US Nominal GDP,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,GDPC1,US Real GDP,Billions of Chained 2012 Dollars,Quarterly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,GPDI,Gross Private Domestic Investment,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,GS1,1-Year T-Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,GS10,10-Year T-Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,GS3,3-Year T-Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,GS5,5-Year T-Rate,Percent,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,HCCSDODNS,"Household and Nonprofit Organisations; Consumer Credit, Liability, Level",$USD Billions,Quartely,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,IMPGS,Imports,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,INDPRO,Industrial Production,Index 2017=100,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,INVEST,Securities in Bank Credit at All Commercial Banks,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,IRLTLT01USM156N,10-Year Long-Term Government Bond Yields (Long-term interest rate proxy),Percent,Monthly,Organization for Economic Co-operation and Development,FRED
+,,,,,,,,,,,,,ISRATIOx,Total Business: Inventories to Sales Ratio,Ratio,Monthly,U.S. Census Bureau,FRED
+,,,,,,,,,,,,,M1SL,M1 Money Stock,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,M2SL,M2 Money Stock,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,NETEXP,Net Exports (Balance of Trade),$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,NONREVSL,Total Nonrevolving Credit,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,PAYEMS,Total NFP,Thousands of Persons,Monthly,U.S. Bureau of Labor Statistics,FRED
+,,,,,,,,,,,,,PCE,Personal Consumption Expenditures,$USD Billions,Monthly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,PERMIT,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Thousands of Units,Monthly,U.S. Census Bureau -  U.S. Department of Housing and Urban Development,FRED
+,,,,,,,,,,,,,POPTHM,Population,Thousands of Persons,Monthly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,PPIACO,Producer Price Index by Commodity: All Commodities,Index 1982=100,Monthly,U.S. Bureau of Labor Statistics,FRED
+,,,,,,,,,,,,,PSAVERT,Personal Saving Rate,Percent,Monthly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,REALLN,Real Estate Loans at All Commercial Banks,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,RPI,Real Personal Income (PIX),$USD Billions of Chained 2012 Dollars,Monthly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,spx,S&P 500 Returns,,Monthly,Shiller's website,
+,,,,,,,,,,,,,spx_div_yield,S&P 500 Dividend Yield,,Monthly,Shiller's website,
+,,,,,,,,,,,,,spx_e,,,Monthly,Shiller's website,
+,,,,,,,,,,,,,spx_pd,,,Monthly,Shiller's website,
+,,,,,,,,,,,,,spx_pe,,,Monthly,Shiller's website,
+,,,,,,,,,,,,,spxbubble,"Derived from bootstrapped GSADF tests (Phillips & Shi, 2018).",,Monthly,,
+,,,,,,,,,,,,,T10YFFM,10-Year Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,T1YFFM,1-Year Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,T5YFFM,5-Year Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,TB3MS,3-Month T-Bill,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,TB3SMFFM,3-Month Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,TB6MS,6-Month T-Bill,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,TB6SMFFM,6-Month Treasury C Minus FEDFUNDS,Percent,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,TOTRESNS,Total Reserves of Depository Institutions,$USD Billions,Monthly,Board of Governors of the Federal Reserve System (US),FRED
+,,,,,,,,,,,,,UNRATE,Unemployment Rate,Percent,Monthly,U.S. Bureau of Labor Statistics,FRED
+,,,,,,,,,,,,,USREC,NBER based Recession Indicators for the United States from the Period following the Peak through the Trough ,Dummy Variable,Monthly,NBER,FRED
+,,,,,,,,,,,,,W068RCQ027SBEA,Government Total Expenditures,$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED
+,,,,,,,,,,,,,WPSFD49207,Producer Price Index: Finished Goods,Index 1982=100,Monthly,U.S. Bureau of Labor Statistics,FRED
+,,,,,,,,,,,,,WTISPLC,Spot Crude Oil Price: West Texas Intermediate (WTI),$USD Per barrel,Monthly,Federal Reserve Bank of St. Louis,FRED
+,,,,,,,,,,,,,Y694RC1Q027SBEA,R&D Spending (GDP),$USD Billions,Quarterly,U.S. Bureau of Economic Analysis,FRED
